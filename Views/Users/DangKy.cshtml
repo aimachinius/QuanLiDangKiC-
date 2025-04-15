@@ -1,0 +1,29 @@
+﻿@model QuanLiDangKiCSharp.Models.User
+
+@{
+    ViewBag.Title = "Đăng ký tài khoản";
+}
+
+<h2>Đăng ký tài khoản</h2>
+
+@using (Html.BeginForm("DangKy", "Users", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div>
+        <label>Tên đăng nhập:</label>
+        @Html.TextBoxFor(model => model.TenDangNhap, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Mật khẩu:</label>
+        @Html.PasswordFor(model => model.MatKhau, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Họ tên học viên:</label>
+        <input type="text" name="HoTenHocVien" class="form-control" required />
+    </div>
+    <br />
+    <button type="submit">Đăng ký</button>
+}
+
+<p>Đã có tài khoản? <a href="@Url.Action("DangNhap", "Users")">Đăng nhập</a></p>

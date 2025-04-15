@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QuanLiDangKiCSharp.Models.KhoaHoc>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TenKhoaHoc)</th>
+            <th>@Html.DisplayNameFor(model => model.GiangVien)</th>
+            <th>@Html.DisplayNameFor(model => model.ThoiGianKhaiGiang)</th>
+            <th>@Html.DisplayNameFor(model => model.HocPhi)</th>
+            <th>@Html.DisplayNameFor(model => model.SoLuongHocVienToiDa)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.TenKhoaHoc)</td>
+                <td>@Html.DisplayFor(modelItem => item.GiangVien)</td>
+                <td>@Html.DisplayFor(modelItem => item.ThoiGianKhaiGiang)</td>
+                <td>@Html.DisplayFor(modelItem => item.HocPhi)</td>
+                <td>@Html.DisplayFor(modelItem => item.SoLuongHocVienToiDa)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.MaKhoaHoc }, new { @class = "btn btn-primary btn-sm" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.MaKhoaHoc }, new { @class = "btn btn-info btn-sm" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.MaKhoaHoc }, new { @class = "btn btn-danger btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

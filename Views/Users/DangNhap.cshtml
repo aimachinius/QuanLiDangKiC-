@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Đăng nhập";
+}
+
+<h2>Đăng nhập</h2>
+
+@using (Html.BeginForm("DangNhap", "Users", FormMethod.Post))
+{
+    <div>
+        <label for="tenDangNhap">Tên đăng nhập:</label>
+        <input type="text" name="tenDangNhap" required />
+    </div>
+    <div>
+        <label for="matKhau">Mật khẩu:</label>
+        <input type="password" name="matKhau" required />
+    </div>
+    <button type="submit">Đăng nhập</button>
+}
+
+@if (ViewBag.ThongBao != null)
+{
+    <p style="color: red;">@ViewBag.ThongBao</p>
+}
+<p>Chưa có tài khoản? <a href="@Url.Action("DangKy", "Users")">Đăng ký ngay</a></p>
+
+

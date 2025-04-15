@@ -1,0 +1,45 @@
+﻿@model IEnumerable<QuanLiDangKiCSharp.Models.DangKyKhoaHoc>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.HocVien.HoTen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KhoaHoc.TenKhoaHoc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayDangKy)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.HocVien.HoTen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KhoaHoc.TenKhoaHoc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayDangKy)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MaDangKy }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MaDangKy }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MaDangKy })
+        </td>
+    </tr>
+}
+
+</table>

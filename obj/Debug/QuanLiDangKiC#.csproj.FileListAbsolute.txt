@@ -1,0 +1,189 @@
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.dll.config
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.pdb
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.exe
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.exe.config
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.rsp
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.exe
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.exe.config
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.rsp
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.AppContext.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Console.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.Compression.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Net.Http.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Net.Sockets.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.ValueTuple.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XPath.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.exe
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.exe.config
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.rsp
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\VBCSCompiler.exe
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Antlr3.Runtime.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.SqlServer.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Newtonsoft.Json.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Helpers.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Mvc.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Optimization.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Razor.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Razor.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\WebGrease.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.SqlServer.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Helpers.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Mvc.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Optimization.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Razor.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Razor.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Newtonsoft.Json.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Antlr3.Runtime.pdb
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.csproj.AssemblyReference.cache
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.csproj.CoreCompileInputs.cache
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDa.2E030761.Up2Date
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.dll
+C:\Users\THANH HAU\OneDrive\Desktop\C#\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.pdb
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.dll.config
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\QuanLiDangKiC#.pdb
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.exe
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.exe.config
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csc.rsp
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.exe
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.exe.config
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\csi.rsp
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.AppContext.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Collections.Immutable.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Console.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Globalization.Calendars.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.Compression.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.FileSystem.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Net.Http.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Net.Sockets.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.ValueTuple.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XPath.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.exe
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.exe.config
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\vbc.rsp
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\VBCSCompiler.exe
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\roslyn\VBCSCompiler.exe.config
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Antlr3.Runtime.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.SqlServer.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Web.Infrastructure.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Newtonsoft.Json.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Helpers.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Mvc.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Optimization.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Razor.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Deployment.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Razor.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\WebGrease.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\EntityFramework.SqlServer.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Helpers.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Mvc.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Optimization.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.Razor.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Deployment.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\System.Web.WebPages.Razor.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Newtonsoft.Json.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Antlr3.Runtime.pdb
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.csproj.AssemblyReference.cache
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.csproj.CoreCompileInputs.cache
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDa.2E030761.Up2Date
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.pdb
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC_.Migrations.InitialCreate.resources
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC#.csproj.GenerateResource.cache
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC_.Migrations.SuaNgaySinhThanhDate.resources
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Owin.dll
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC_.Migrations.ThemPhanQuyen.resources
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC_.Migrations.rebui.resources
+E:\ProjectCSha\QuanLiDangKiC#\QuanLiDangKiC#\obj\Debug\QuanLiDangKiC_.Migrations.Login_Regi.resources
