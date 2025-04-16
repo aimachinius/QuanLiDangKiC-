@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using QuanLiDangKiCSharp.Models;
 
-namespace QuanLiDangKiC_.Controllers
+namespace QuanLiDangKiCSharp.Controllers
 {
     public class KhoaHocsController : Controller
     {

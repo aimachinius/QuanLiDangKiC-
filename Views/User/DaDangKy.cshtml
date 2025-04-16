@@ -1,0 +1,51 @@
+﻿@model IEnumerable<QuanLiDangKiCSharp.Models.KhoaHoc>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Khóa Học Đã Đăng Kí</h2>
+<nav style="margin-bottom: 20px;">
+    <a href="@Url.Action("Index", "User")">🏠 Thông tin cá nhân</a> |
+    <a href="@Url.Action("KhoaHoc", "User")">📘 Danh sách khóa học</a> |
+    <a href="@Url.Action("DaDangKy", "User")">✅ Đã đăng ký</a>
+</nav>
+
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.TenKhoaHoc)</th>
+            <th>@Html.DisplayNameFor(model => model.GiangVien)</th>
+            <th>@Html.DisplayNameFor(model => model.ThoiGianKhaiGiang)</th>
+            <th>@Html.DisplayNameFor(model => model.HocPhi)</th>
+            <th>@Html.DisplayNameFor(model => model.SoLuongHocVienToiDa)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.TenKhoaHoc)</td>
+                <td>@Html.DisplayFor(modelItem => item.GiangVien)</td>
+                <td>@Html.DisplayFor(modelItem => item.ThoiGianKhaiGiang)</td>
+                <td>@Html.DisplayFor(modelItem => item.HocPhi)</td>
+                @*<td>@Html.DisplayFor(modelItem => item.SoLuongHocVienToiDa)</td>*@
+                <td>
+                    @if (item.ThoiGianKhaiGiang > DateTime.Now)
+                    {
+                        @Html.ActionLink("Hủy đăng ký", "HuyDangKy", new { maKhoaHoc = item.MaKhoaHoc }, new { @class = "btn btn-danger" })
+                    }
+                    else
+                    {
+                        <span class="text-success">Khóa học đã bắt đầu</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+

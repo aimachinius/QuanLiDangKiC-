@@ -1,0 +1,54 @@
+﻿<!-- Views/Account/Register.cshtml -->
+@model QuanLiDangKiCSharp.Models.HocVien
+
+@{
+    ViewBag.Title = "Đăng ký tài khoản";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mt-4">Đăng ký tài khoản học viên</h2>
+<div class="container mt-5">
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "row g-3" }))
+    {
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.HoTen)
+            @Html.TextBoxFor(m => m.HoTen, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.HoTen)
+        </div>
+
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.NgaySinh)
+            @Html.TextBoxFor(m => m.NgaySinh, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+            @Html.ValidationMessageFor(m => m.NgaySinh)
+        </div>
+
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.SoDienThoai)
+            @Html.TextBoxFor(m => m.SoDienThoai, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.SoDienThoai)
+        </div>
+
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", type = "email" })
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.TaiKhoan)
+            @Html.TextBoxFor(m => m.TaiKhoan, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.TaiKhoan)
+        </div>
+
+        <div class="col-md-6">
+            @Html.LabelFor(m => m.MatKhau)
+            @Html.PasswordFor(m => m.MatKhau, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.MatKhau)
+        </div>
+
+        <div class="col-12 text-center mt-3">
+            <button type="submit" class="btn btn-primary">Đăng ký</button>
+            <a href="@Url.Action("Login", "Account")" class="btn btn-secondary ms-3">Đăng nhập</a>
+        </div>
+    }
+</div>

@@ -1,4 +1,4 @@
-﻿@model QuanLiDangKiCSharp.Models.User
+﻿@model QuanLiDangKiCSharp.Models.Account
 
 @{
     ViewBag.Title = "Delete";
@@ -8,31 +8,23 @@
 
 <h3>Are you sure you want to delete this?</h3>
 <div>
-    <h4>User</h4>
+    <h4>Account</h4>
     <hr />
     <dl class="dl-horizontal">
         <dt>
-            @Html.DisplayNameFor(model => model.HocVien.HoTen)
+            @Html.DisplayNameFor(model => model.MK)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.HocVien.HoTen)
+            @Html.DisplayFor(model => model.MK)
         </dd>
 
         <dt>
-            @Html.DisplayNameFor(model => model.MatKhau)
+            @Html.DisplayNameFor(model => model.Role)
         </dt>
 
         <dd>
-            @Html.DisplayFor(model => model.MatKhau)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.VaiTro)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.VaiTro)
+            @Html.DisplayFor(model => model.Role)
         </dd>
 
     </dl>

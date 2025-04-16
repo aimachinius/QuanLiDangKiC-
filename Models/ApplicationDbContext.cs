@@ -34,6 +34,8 @@ namespace QuanLiDangKiCSharp.Models
                 .HasForeignKey(d => d.MaKhoaHoc);
         }
 
-        public System.Data.Entity.DbSet<QuanLiDangKiCSharp.Models.User> Users { get; set; }
+        public System.Data.Entity.DbSet<QuanLiDangKiCSharp.Models.Account> Accounts { get; set; }
+
+        //public System.Data.Entity.DbSet<QuanLiDangKiCSharp.Models.User> Users { get; set; }
     }
 }

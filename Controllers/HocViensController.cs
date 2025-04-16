@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using QuanLiDangKiCSharp.Models;
 
-namespace QuanLiDangKiC_.Controllers
+namespace QuanLiDangKiCSharp.Controllers
 {
     public class HocViensController : Controller
     {
@@ -122,6 +122,37 @@ namespace QuanLiDangKiC_.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        // GET: HocVien/Register
+        public ActionResult Register()
+        {
+            return View();
+        }
+
+        // POST: HocVien/Register
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Register(HocVien model)
+        {
+            if (ModelState.IsValid)
+            {
+                // Kiểm tra nếu tài khoản đã tồn tại
+                var existingAccount = db.HocViens.SingleOrDefault(hv => hv.TaiKhoan == model.TaiKhoan);
+                if (existingAccount != null)
+                {
+                    ViewBag.ErrorMessage = "Tài khoản đã tồn tại!";
+                    return View(model);
+                }
+
+                // Thêm học viên vào cơ sở dữ liệu
+                db.HocViens.Add(model);
+                db.SaveChanges();
+
+                // Sau khi đăng ký thành công, chuyển đến trang đăng nhập
+                return RedirectToAction("Login", "Account");
+            }
+            return View(model);
         }
     }
 }

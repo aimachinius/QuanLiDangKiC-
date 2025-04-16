@@ -1,0 +1,46 @@
+﻿@model QuanLiDangKiCSharp.Models.HocVien
+
+@{
+    ViewBag.Title = "Trang cá nhân học viên";
+}
+
+<h2>Xin chào, @Model.HoTen!</h2>
+
+<!-- Menu chuyển trang -->
+<nav style="margin-bottom: 20px;">
+    <a href="@Url.Action("Index", "User")">🏠 Thông tin cá nhân</a> |
+    <a href="@Url.Action("KhoaHoc", "User")">📘 Danh sách khóa học</a> |
+    <a href="@Url.Action("DaDangKy", "User")">✅ Đã đăng ký</a>
+</nav>
+
+<hr />
+
+<!-- Thông tin cá nhân -->
+<h3>Thông tin học viên</h3>
+<table class="table">
+    <tr>
+        <th>Họ tên</th>
+        <td>@Model.HoTen</td>
+    </tr>
+    <tr>
+        <th>Ngày sinh</th>
+        <td>@Model.NgaySinh.ToShortDateString()</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <th>SĐT</th>
+        <td>@Model.SoDienThoai</td>
+    </tr>
+    <tr>
+        <th>Tài khoản</th>
+        <td>@Model.TaiKhoan</td>
+    </tr>
+    <tr>
+        <th>Mật Khẩu</th>
+        <td>@Model.MatKhau</td>
+    </tr>
+</table>
+
